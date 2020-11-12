@@ -21,6 +21,18 @@ Some interesting references of things I learned
 
 -[Taming Great Complexity: MVVM, Coordinators and RxSwift](https://uptech.team/blog/mvvm-coordinators-and-rxswift)
 
+## RxSwift: 
+
+-[An Introduction to FRP](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming)
+
+-[RxSwift Introduction](https://victorqi.gitbooks.io/rxswift/)
+
+-[Learn Rx by implementing Observable](https://sergdort.github.io/implement-rx/)
+
+-[RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
+
+-[Custom Property Bindings with RxSwift](http://rx-marin.com/post/rxswift-custom-bindings/)
+
 ## Persistence Layer: 
 
 -[Core Data vs Realm](https://cocoacasts.com/core-data-or-realm)
@@ -35,17 +47,9 @@ Some interesting references of things I learned
 
 -[Advanced Animations with UIKit](https://www.youtube.com/watch?v=35_nNRtkc54)
 
-## RxSwift: 
+## Tests:
 
--[An Introduction to FRP](https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming)
-
--[RxSwift Introduction](https://victorqi.gitbooks.io/rxswift/)
-
--[Learn Rx by implementing Observable](https://sergdort.github.io/implement-rx/)
-
--[RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar-tech/rxswift-mvvm-66827b8b3f10)
-
--[Custom Property Bindings with RxSwift](http://rx-marin.com/post/rxswift-custom-bindings/)
+-[Testing iOS apps](http://merowing.info/2017/01/testing-ios-apps/)
 
 ## SwiftUI
 
